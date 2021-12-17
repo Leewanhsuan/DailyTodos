@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DailyTodos/static/css/main.5dfe17cb.css",
+    "main.js": "/DailyTodos/static/js/main.c245b56f.js",
+    "index.html": "/DailyTodos/index.html",
+    "main.5dfe17cb.css.map": "/DailyTodos/static/css/main.5dfe17cb.css.map",
+    "main.c245b56f.js.map": "/DailyTodos/static/js/main.c245b56f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dfe17cb.css",
+    "static/js/main.c245b56f.js"
+  ]
+}
